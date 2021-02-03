@@ -1,0 +1,1 @@
+# Phaser 3 starter template with webpack 5
